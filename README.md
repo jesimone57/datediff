@@ -35,9 +35,8 @@ can enter the following: difference in days between jan 1 2000 and march 7 2001.
 
 ### How To Excecute the Code
 1. git clone https://github.com/jesimone57/datediff.git
-2. compile the code with javac or your favorite java IDE
-3. cd bin   
-4. java datediff.DateDiff ../dates.txt
+2. gradlew clean build test
+3. gradlew run
 
 ### Sample Input (from the file dates.txt)
 <pre>

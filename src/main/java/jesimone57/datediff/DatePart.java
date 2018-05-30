@@ -1,4 +1,4 @@
-package datediff;
+package jesimone57.datediff;
 
 /**
  * A container class to hold the three parts of a date: day, month and year

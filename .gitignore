@@ -1,6 +1,11 @@
 bin/
+*.iml
+.idea/
 .settings
 .project
 .classpath
+.gradle/
+build/
+
 
 
