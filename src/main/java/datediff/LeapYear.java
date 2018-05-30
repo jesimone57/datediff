@@ -1,4 +1,4 @@
-package jesimone57.datediff;
+package datediff;
 
 /**
  * There is a leap year every year whose number is perfectly divisible by four -

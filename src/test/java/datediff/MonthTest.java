@@ -1,4 +1,4 @@
-package jesimone57.datediff;
+package datediff;
 
 import org.junit.Test;
 
@@ -13,7 +13,10 @@ public class MonthTest {
         assertEquals(Month.MAR, Month.getMonth(2));
         assertEquals(Month.APR, Month.getMonth(3));
         assertEquals(Month.MAY, Month.getMonth(4));
-
+        assertEquals(Month.JUN, Month.getMonth(5));
+        assertEquals(Month.JUL, Month.getMonth(6));
+        assertEquals(Month.AUG, Month.getMonth(7));
+        assertEquals(Month.SEP, Month.getMonth(8));
         assertEquals(Month.OCT, Month.getMonth(9));
         assertEquals(Month.NOV, Month.getMonth(10));
         assertEquals(Month.DEC, Month.getMonth(11));

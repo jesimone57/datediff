@@ -1,4 +1,4 @@
-package jesimone57.datediff;
+package datediff;
 
 /**
  * A container class to hold a pair of dates in DatePart format.  This allows for easy passing of a pair of dates.

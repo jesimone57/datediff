@@ -1,4 +1,4 @@
-package jesimone57.datediff;
+package datediff;
 
 import java.util.List;
 

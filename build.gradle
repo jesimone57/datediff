@@ -12,7 +12,7 @@ dependencies {
 }
 
 task run(type: JavaExec) {
-    main = "jesimone57.datediff.DateDiff"
+    main = "datediff.DateDiff"
     classpath = sourceSets.main.runtimeClasspath
 }
 
